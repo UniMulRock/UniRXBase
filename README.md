@@ -1,4 +1,6 @@
-# UniRXBase
+# UniRXBase  
+Version:1.0.0  
+対応Unityバージョン:5.4.2f2  
 ## UniRXBaseについて
 UniRxをベースとした汎用プロジェクト．  
 ###【目的】  
